@@ -12,13 +12,11 @@
 
 
 
-<font="gray">
 <P>
 <A href="https://twitter.com">ツイッター</A>に画像元を保存しております。
 </P>
 
 <img src="https://pbs.twimg.com/media/E5g0Ii0UcAgG4Cf?format=png&name=4096x4096">
-<font>
 
 </BODY>
 
